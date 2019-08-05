@@ -1,7 +1,4 @@
 package com.antiy.securitydemo.pojo;
-/**
- *
- */
 
 import org.springframework.stereotype.Component;
 
